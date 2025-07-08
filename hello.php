@@ -1,5 +1,5 @@
 <?php
 $a = 5;
 $b = 10;
-
-echo $a+ $b;
+$c= 20;
+echo $a+ $b+$c;
